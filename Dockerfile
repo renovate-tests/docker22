@@ -1,2 +1,2 @@
-FROM ubuntu:12.04
+FROM ubuntu:20.04
 RUN something
